@@ -1,0 +1,58 @@
+$from: any
+$commands: open decryptor3000_source.code
+$file: decryptor3000_source.code
+
+[CYAN]/************* Code source du decryptor3000 ***********/[/]
+
+[CYAN]// Variables[/]
+var [YELLOW]f[/] = [ORANGE]get[/]([RED]'filmPréféré'[/])
+var [YELLOW]t[/] = [ORANGE]get[/]([RED]'toby'[/])
+var [YELLOW]b[/] = [ORANGE]get[/]([RED]'anniversaire'[/])
+var [YELLOW]v[/] = [ORANGE]get[/]([RED]'vacances2018'[/]).[YELLOW]metaData[/][[RED]'ville'[/]]
+var [YELLOW]c[/] = [ORANGE]get[/]([RED]'position'[/]).[ORANGE]getCoord[/]();
+var [YELLOW]m[/] = [YELLOW]f[/].[YELLOW]titre[/][[RED]'FR'[/]].[ORANGE]toLowerCase[/]();
+
+var [YELLOW]alphabet01[/] = [RED]'UdZ7FvkX1fmqx@hSs3wJip09IQaNPDHn!$M6gVAtTeoB?O8W4j2GEYru
+RybcLK5_Clz'[/]
+
+var [YELLOW]alphabet02[/] = [RED]'?tBGbfkLel_jqKWhNY4ZSIH7TFc!uaxX3vn628dzEUP9Cw@DgoryR05M
+is1Op$QJAmV'[/]
+
+var [YELLOW]alphabet03[/] = [RED]'Y!ON7BADZhGXbskgaK_WT1w5QVq2CEyrv3zRLJjm9neUStlIducMpiF8
+0$4?HxP6@fo'[/]
+
+
+[CYAN]// Fonction de décryptage[/]
+function [ORANGE]decrypt[/](var [YELLOW]code[/]) {
+
+    [YELLOW]code[/].[ORANGE]swapUppercaseAndLowercase[/]();  
+    [YELLOW]code[/].[ORANGE]swap[/]([YELLOW]m[/].[YELLOW]lettre[/][[RED]0[/]], [RED]'s'[/]);
+
+    if([YELLOW]f[/].[YELLOW]genre[/] == [RED]'horreur'[/]) {
+        [CYAN]// Remplace tous les g minuscules par des t minuscules,
+        // et inversement[/]
+        [YELLOW]code[/].[ORANGE]swap[/]([RED]'g'[/], [RED]'t'[/])
+        [YELLOW]code[/].[ORANGE]cesar[/](clef: [RED]7[/], alphabet: [YELLOW]alphabet01[/])
+    } else {
+        [YELLOW]code[/].[ORANGE]swap[/]([RED]'g'[/], [RED]'m'[/])
+        [YELLOW]code[/].[ORANGE]cesar[/](clef: [RED]10[/], alphabet: [YELLOW]alphabet02[/])
+    }
+
+    [YELLOW]alphabet03[/].[ORANGE]swap[/]([YELLOW]m[/].[YELLOW]lettre[/][[RED]0[/]], [YELLOW]m[/].[YELLOW]lettre[/][[RED]1[/]])
+    [YELLOW]alphabet03[/].[ORANGE]swap[/]([YELLOW]m[/].[YELLOW]lettre[/][[RED]2[/]], [YELLOW]m[/].[YELLOW]lettre[/][[RED]3[/]])
+    [YELLOW]code[/].[ORANGE]cesar[/](clef: [RED]8[/], alphabet: [YELLOW]alphabet03[/])
+    
+    if([YELLOW]t[/].[YELLOW]nombrePattes[/] < [RED]4[/]) {
+        [YELLOW]code[/].[ORANGE]swapUppercaseAndLowercase[/]()
+    }
+
+    [YELLOW]c[/].[YELLOW]latitude[/].[ORANGE]arrondir[/]()
+    [YELLOW]code[/].[ORANGE]vigenere[/](alphabet: [YELLOW]alphabet02[/], clef: [YELLOW]c[/].[YELLOW]latitude[/])
+
+    if([YELLOW]b[/].[YELLOW]day[/] < [RED]15[/]) {
+        [YELLOW]code[/].[ORANGE]swapUppercaseAndLowercase[/]()
+        [YELLOW]code[/].[ORANGE]cesar[/](clef: [YELLOW]b[/].[YELLOW]month[/], alphabet: [YELLOW]alphabet01[/])
+    }
+    
+    [YELLOW]code[/].[ORANGE]vigenere[/](alphabet: [YELLOW]alphabet02[/], clef: [YELLOW]v[/].[ORANGE]toUpperCase[/]())
+}

@@ -1,0 +1,3 @@
+$commands: salut!, salut, bonjour!, bonjour, wesh!, wesh, hello!, hello, hi!, hi, hey!, hey
+$from: any
+Bonjour ! Comment allez vous ?

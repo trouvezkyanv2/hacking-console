@@ -1,0 +1,88 @@
+$commands: open chatlog_240221.log
+$from: any
+$file: chatlog_240221.log
+
+[CYAN][00:30] <NinjaPhr34k> s'est déconnecté.[/]
+
+[BLUE][00:37][/] [ORANGE]<DevilCaïelle> :[/] Je m'en vais dormir, à demain !
+[BLUE][00:37][/] [ORANGE]<DevilCaïelle> :[/] Youpi, je peux ré-écrire !
+[CYAN]* You're not allowed to speak within 60 minutes[/]
+
+[CYAN][00:38] <DevilCaïelle> s'est déconnecté.[/]
+
+[CYAN][03:32] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][08:45] <DevilCaïelle> vient de se connecter.[/]
+
+[BLUE][08:45][/] [ORANGE]<DevilCaïelle> :[/] Bonjour tout le monde !
+[BLUE][08:46][/] [ORANGE]<PeT1tS@Jj> :[/] Salut :)
+
+[CYAN][11:35] <NinjaPhr34k> vient de se connecter.[/]
+
+[BLUE][11:35][/] [ORANGE]<PeT1tS@Jj> :[/] Salut !
+[BLUE][11:35][/] [ORANGE]<NinjaPhr34k> :[/] slt tlm, ça s'passe ?
+[BLUE][11:36][/] [ORANGE]<DevilCaïelle> :[/] Bonjour NinjaPhr34k, ça va et toi ?
+[BLUE][11:45][/] [ORANGE]<NinjaPhr34k> :[/] Yep yep
+[BLUE][12:08][/] [ORANGE]<PeT1tS@Jj> :[/] On était pas sensé faire un point là ?
+[BLUE][12:09][/] [ORANGE]<NinjaPhr34k> :[/] J'ai sms delta, j'sais pas s'qu'il fait
+
+[CYAN][13:45] <D3LT4_CRASH> vient de se connecter.[/]
+
+[BLUE][13:45][/] [ORANGE]<NinjaPhr34k> :[/] Hum hum
+[CYAN]** <NinjaPhr34k> regarde sa montre avec insistance[/]
+[BLUE][13:48][/] [ORANGE]<D3LT4_CRASH> :[/] mdr
+[BLUE][13:48][/] [ORANGE]<D3LT4_CRASH> :[/] Désolé ^^ j'suis un peu en retard, quelle idée de faire ça aussi tot...
+[BLUE][13:49][/] [ORANGE]<D3LT4_CRASH> :[/] Je fais deux trois trucs et je suis à vous ᕕ(ᐛ)ᕗ
+[BLUE][13:51][/] [ORANGE]<DevilCaïelle> :[/] En attendant, j'ai une petite question pour vous !
+[BLUE][13:51][/] [ORANGE]<PeT1tS@Jj> :[/] :/
+[BLUE][13:51][/] [ORANGE]<DevilCaïelle> :[/] Vous savez dans quel film joue Picole Kidman ?
+[BLUE][13:52][/] [ORANGE]<NinjaPhr34k> :[/] lol t'es sur d'vouloir commencer la journée comme ça devil ?
+[BLUE][13:54][/] [ORANGE]<PeT1tS@Jj> :[/] eye wide shot de tequila ?
+[BLUE][13:54][/] [ORANGE]<PeT1tS@Jj> :[/] barman forever ?
+[BLUE][13:58][/] [ORANGE]<NinjaPhr34k> :[/] mon dieu...
+[BLUE][14:05][/] [ORANGE]<DevilCaïelle> :[/] Non ! Moulin vin Rouge !
+[BLUE][14:08][/] [ORANGE]<DevilCaïelle> :[/] S'il vous plait ! Ne m'empêchez pas d'écrire aujourd'hui aussi s'il vous plait ! Je suis en plein sugar rush, il fallait que ça sorte haha
+[BLUE][14:12][/] [ORANGE]<D3LT4_CRASH> :[/] mdr hélas on va avoir besoin de toi donc j'vais éviter de te muter cette fois-ci
+[BLUE][14:12][/] [ORANGE]<D3LT4_CRASH> :[/] Bon... Let's go ! Qui veut commencer ?
+[BLUE][14:15][/] [ORANGE]<D3LT4_CRASH> :[/] Vous pressez pas hein
+[BLUE][14:16][/] [ORANGE]<NinjaPhr34k> :[/] loool l'culot du gars xD
+[BLUE][14:16][/] [ORANGE]<D3LT4_CRASH> :[/] mdr
+[BLUE][14:16][/] [ORANGE]<NinjaPhr34k> :[/] perso y manque plus que la sécu finale et j'aurais plus qu'a attendre dimanche
+[BLUE][14:17][/] [ORANGE]<DevilCaïelle> :[/] Le site est prêt à être piraté. Tout est en place de mon côté.
+[BLUE][14:17][/] [ORANGE]<D3LT4_CRASH> :[/] Ah oui fuck ! J'te génère ça tout de suite
+[BLUE][14:18][/] [ORANGE]<PeT1tS@Jj> :[/] Pour ma part les visuels sont intégrés au site, vous avez la vidéo, paré pour dimanche 
+[BLUE][14:19][/] [ORANGE]<D3LT4_CRASH> :[/] Parfaiiiit ! ◟༼=ಠ益ಠ=༽◞
+[BLUE][14:19][/] [ORANGE]<D3LT4_CRASH> :[/] C'est insane, cette orga de guerre, on a tellement d'avance en plus !
+[BLUE][14:20][/] [ORANGE]<NinjaPhr34k> :[/] j'avoue
+[BLUE][14:21][/] [ORANGE]<DevilCaïelle> :[/] Ça me rappelle la dynamique qu'on avait pour la première énigme qu'on a fait ensemble, à l'époque où on pensait faire quelque chose de bien... Je regrette tellement...
+[BLUE][14:21][/] [ORANGE]<PeT1tS@Jj> :[/] :/ 
+[BLUE][14:22][/] [ORANGE]<PeT1tS@Jj> :[/] Au moins ça vous aura permis de vous rencontrer !
+[BLUE][14:22][/] [ORANGE]<D3LT4_CRASH> :[/] Bon du coup pour le mdp j'ai mis [RED]/----- ENCRYPTED WITH CRYPTMASTER3000 code=[YELLOW]74AZbSG$qRYrAU_84!LBez@0aP5-gxio$Mp[/] ---------/[/]
+[BLUE][14:23][/] [ORANGE]<NinjaPhr34k> :[/] s'noté
+[BLUE][14:32][/] [ORANGE]<PeT1tS@Jj> :[/] Bonne nouvelle aussi, je sais pas si vs avez vu mais je suis maintenant récapiteur sur le discord
+[BLUE][14:32][/] [ORANGE]<D3LT4_CRASH> :[/] Ça te donne des droits en plus du coup ?!
+[BLUE][14:33][/] [ORANGE]<PeT1tS@Jj> :[/] Exactement ! je peux maintenant supprimer des messages notamment. Parfait pour brouiller les pistes.
+[BLUE][14:33][/] [ORANGE]<PeT1tS@Jj> :[/] ils sont cuits héhé
+[BLUE][14:34][/] [ORANGE]<D3LT4_CRASH> :[/]（╯°□°)╯︵( .o.)( .o.)( .o.)( .o.)  < les crad'fteurs
+[BLUE][14:34][/] [ORANGE]<PeT1tS@Jj> :[/] haha
+[BLUE][14:34][/] [ORANGE]<DevilCaïelle> :[/] Hahaha excellent le jeu de mot !
+[BLUE][14:34][/] [ORANGE]<NinjaPhr34k> :[/] loool xD
+[BLUE][14:36][/] [ORANGE]<PeT1tS@Jj> :[/] Si on ajoute à ça les malwares qu'on leur a fait télécharger avec notre énigme maison, y'a juste aucune chance qu'ils s'en sortent
+[BLUE][14:37][/] [ORANGE]<D3LT4_CRASH> :[/] Tellement bien ! Merci beaucoup pour ton investissement de malade, ils se doutent juste de rien quoi mdr
+[BLUE][14:42][/] [ORANGE]<D3LT4_CRASH> :[/] Bon, je boucle les dernières étapes aujourd'hui normalement, je vous tiens au courant !
+[BLUE][18:11][/] [ORANGE]<PeT1tS@Jj> :[/] Ethan nous fait savoir qu'il versera la somme sur paypal dès lundi (si la mission est accomplie évidemment, mais je ne m'en fais pas pour ça :D)
+[BLUE][18:13][/] [ORANGE]<D3LT4_CRASH> :[/] C'est okay pour moi ! ✺◟(*▾*)◞✺ merci !
+[BLUE][18:13][/] [ORANGE]<NinjaPhr34k> :[/] same
+[BLUE][22:56][/] [ORANGE]<D3LT4_CRASH> :[/] J'ai pris un peu de retard, j'fais au max 
+[BLUE][22:56][/] [ORANGE]<D3LT4_CRASH> :[/] au pire y'aura des features en moins ¯\_(ツ)_/¯
+
+[CYAN][23:32] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][23:32] <D3LT4_CRASH> vient de se connecter.[/]
+
+[CYAN]* Type /YES to confirm your modifications[/]
+[CYAN]* You're not allowed to modify this[/]
+[CYAN]* You're not allowed to modify this[/]
+[BLUE][23:35][/] [ORANGE]<DevilCaïelle> :[/] Je ne comprends pas, ça ne marche toujours pas.
+[BLUE][23:35][/] [ORANGE]<D3LT4_CRASH> :[/] Ca t'es toujours pas destiné devil... -_-'
+[BLUE][23:35][/] [ORANGE]<DevilCaïelle> :[/] Très bien.

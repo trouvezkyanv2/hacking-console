@@ -1,0 +1,10 @@
+$commands: matrix, neo, wake up neo
+$from: any
+[WAIT002]
+Wake up, [WAIT002]Neo[WAIT005].[WAIT005].[WAIT005].[WAIT020]
+
+The Matrix has you[WAIT010].[WAIT010].[WAIT010].[WAIT020]
+
+Follow the white rabbit.[WAIT030]
+
+Knock, [WAIT002]knock, [WAIT004]Neo.

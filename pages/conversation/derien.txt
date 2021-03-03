@@ -1,0 +1,4 @@
+$commands: de rien, pas de soucis, c'est normal, de rien!, pas de soucis!, ça fait plaisir
+$from: any
+
+:)

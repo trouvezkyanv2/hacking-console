@@ -1,0 +1,8 @@
+$from: any
+$commands: cryptmaster3000.exe, open cryptmaster3000.exe
+
+Running [CYAN]cryptmaster3000.exe[/][WAIT002].[WAIT002].[WAIT002].[WAIT015]
+
+[ORANGE][WARNING][/] [YELLOW]Aucun document à encrypter.[/][WAIT005]
+
+Utilisez decryptor3000 pour décrypter un fichier ou un texte de votre choix.

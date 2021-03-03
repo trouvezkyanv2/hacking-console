@@ -1,0 +1,24 @@
+$from: any
+$commands: manotxt.exe, open manotxt.exe
+
+Running [CYAN]manotxt.exe[/][WAIT002].[WAIT002].[WAIT002].[WAIT005]
+
+------------------------------- v3.10 -------------------------------
+
+                    ████████████████████████████
+                    █▄─▀█▀─▄██▀▄─██▄─▀█▄─▄█─▄▄─█
+                    ██─█▄█─███─▀─███─█▄▀─██─██─█
+                    █▄▄▄█▄▄▄█▄▄█▄▄█▄▄▄██▄▄█▄▄▄▄█
+                    ████████████████████████████
+
+--------------- L'ÉDITEUR DE TEXTE DES VRAIS HACKERS ----------------
+
+                                    [WAIT005][WAIT002].[WAIT002].[WAIT002].[WAIT005]
+[WAIT005]
+
+[YELLOW][manotxt est en mode lecture uniquement][/]
+
+    - Utilisez la commande '[CYAN]open [NOMDUFICHIER][/]' pour un ouvrir un fichier
+    - Pour changer de mode, connectez vous en tant que superadmin et
+      modifiez votre [CYAN]fichier de config[/] système.
+    - Entrez '[CYAN]exit[/]' pour quitter

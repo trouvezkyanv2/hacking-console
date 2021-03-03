@@ -1,0 +1,55 @@
+$commands: open main_config.conf
+$from: any
+$file: main_config.conf
+
+$commands: dir, ls, list
+$from: any
+[CYAN]KEY                              VALUE
+-------------------------------------------------------------------------[/]
+sys.version                      14.01f3
+sys.timezone                     UTC+1
+sys.login.always_ask             1
+sys.login.remember_password      0
+user.password                    [ENCRYPTED]
+user.email                       [ENCRYPTED]
+default.player                   playotron_cli.exe
+default.browser                  chromium_cli.exe
+default.textreader               manotxt.exe
+network.firewall                 ufw
+ip.address                       79.137.35.197
+connect.port                     80
+user.name                        D3LT4_CRASH
+gui.enabled                      0
+winrar.activation                0
+manotxt.encoding                 utf8
+manotxt.allowedit                0
+manotxt.lang                     ['fr', 'en']
+modules.install                  manual
+agenda.mode                      week
+agenda.notifications             0
+agenda.ev.convention_hack        **0703
+agenda.ev.noel                   **0C19
+agenda.ev.bday                   **050A
+agenda.ev.decl_pole_emp          ****0E
+cyberpunk.launchdate             uncertain
+magickzipr.format                ['rar', 'zip', 'tar.gz']
+magickzipr.trustuser             1
+playotron.subs.fontsize          12
+playotron.subs.font              use_system
+playotron.defaultlang            fr
+playotron.shuffle                0
+playotron.repeat                 0
+chattr.connect                   auto
+chattr.username                  D3LT4_CRASH
+sys.process.name                 hacking-console
+sys.console.theme                hacker_dark
+sys.remoteconnect                1
+quake3D.forward                  Z
+quake3D.left                     Q
+quake3D.fov                      124
+quake3D.username                 D3LTA_PAWN3R
+imgtoascii.output                ./
+imgtoascii.darkmode              1
+
+
+

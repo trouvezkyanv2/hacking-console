@@ -1,0 +1,6 @@
+$commands: comment va?, ça va?, ca va?, comment ça va?, bien ou bien?
+$from: any
+
+Difficile à dire, je ne suis pas programmé pour ressentir.
+
+Merci quand même de vous intéresser à moi !

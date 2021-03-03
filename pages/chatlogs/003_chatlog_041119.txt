@@ -1,0 +1,18 @@
+$commands: open chatlog_041119.log
+$from: any
+$file: chatlog_041119.log
+
+[CYAN][01:33] <NinjaPhr34k> s'est déconnecté.[/]
+
+[CYAN][02:25] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][13:01] <NinjaPhr34k> vient de se connecter.[/]
+
+[CYAN][14:15] <D3LT4_CRASH> vient de se connecter.[/]
+
+[CYAN]** <D3LT4_CRASH> fait coucou[/]
+[CYAN]** <NinjaPhr34k> fait coucou aussi[/]
+
+[CYAN][20:40] <NinjaPhr34k> s'est déconnecté.[/]
+
+[CYAN][20:42] <NinjaPhr34k> vient de se connecter.[/]

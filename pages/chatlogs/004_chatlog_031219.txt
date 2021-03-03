@@ -1,0 +1,51 @@
+$commands: open chatlog_031219.log
+$from: any
+$file: chatlog_031219.log
+
+[CYAN][00:14] <NinjaPhr34k> s'est déconnecté.[/]
+
+[CYAN][03:25] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][12:43] <NinjaPhr34k> vient de se connecter.[/]
+
+[CYAN][14:44] <D3LT4_CRASH> vient de se connecter.[/]
+
+[BLUE][14:52][/] [ORANGE]<NinjaPhr34k> :[/] Slt
+[BLUE][14:52][/] [ORANGE]<NinjaPhr34k> :[/] Bien ou bien ?
+[CYAN]** <NinjaPhr34k> envoie un wizz[/]
+[BLUE][14:52][/] [ORANGE]<NinjaPhr34k> :[/] j'aimerai tellement que ça marche pour de vrai lol
+[BLUE][14:52][/] [ORANGE]<NinjaPhr34k> :[/] T'es là ? Ca marque que t'es connecté wesh
+[BLUE][15:01][/] [ORANGE]<NinjaPhr34k> :[/] Bon tant pis, j'continue d'avancer !
+[BLUE][18:37][/] [ORANGE]<D3LT4_CRASH> :[/] Oups sry, j'voyais un pote à répu, le temps de revenir... -_-'
+[BLUE][18:38][/] [ORANGE]<D3LT4_CRASH> :[/] Dispo du coup ! .o/
+[BLUE][18:42][/] [ORANGE]<NinjaPhr34k> :[/] Np
+[BLUE][18:42][/] [ORANGE]<NinjaPhr34k> :[/] Alors pour t'expliquer
+[BLUE][18:43][/] [ORANGE]<NinjaPhr34k> :[/] j'ai d'abord réussi à obtenir la clé wifi de leur réseau (c'était pas compliqué, s'marqué partout...), pis j'ai intercepté deux trois infos, dont les identifiants !!
+[BLUE][18:43][/] [ORANGE]<NinjaPhr34k> :[/] d'ailleurs ça va t'faire délirer
+[BLUE][18:44][/] [ORANGE]<D3LT4_CRASH> :[/] C'était admin admin MDR ???
+[BLUE][18:44][/] [ORANGE]<NinjaPhr34k> :[/] wé xD
+[BLUE][18:44][/] [ORANGE]<D3LT4_CRASH> :[/] PTDR
+[BLUE][18:44][/] [ORANGE]<D3LT4_CRASH> :[/] Tout ça pour ça 
+[BLUE][18:46][/] [ORANGE]<NinjaPhr34k> :[/] wé j'aurais dû essayé avant mais bon, ça aurait prit autant de temps en fin de compte
+[BLUE][18:47][/] [ORANGE]<NinjaPhr34k> :[/] du coup j'ai eu accès à tous leurs dossiers sans embrouilles (merci encore pour tes tools), j'ai trouvé les fichiers en 5 sec grâce à Doukilet3000, j'ai modif les notes et quelques appréciations et j'ai effacé toutes traces de passage lol
+[BLUE][18:50][/] [ORANGE]<NinjaPhr34k> :[/] Ha et j'ai supprimé toutes les notes d'Angèle, ça va tellement foutre le zbeul
+[BLUE][18:51][/] [ORANGE]<D3LT4_CRASH> :[/] T'es malade mdrrr
+[BLUE][18:55][/] [ORANGE]<NinjaPhr34k> :[/] "Bref, j'ai hacké l'école de mon cousin" xD
+[BLUE][18:55][/] [ORANGE]<D3LT4_CRASH> :[/] mdr c'est insane, bien joué !!! ✺◟(*▾*)◞✺
+[BLUE][18:56][/] [ORANGE]<NinjaPhr34k> :[/] Bah gg à toi aussi, tu m'as facilité le boulot de ouf
+[BLUE][18:56][/] [ORANGE]<D3LT4_CRASH> :[/] Je n'ai fais que mon devoir ! mdr
+[BLUE][18:56][/] [ORANGE]<D3LT4_CRASH> :[/] Hâte qu'on s'attaque à des trucs plus gros :D
+[CYAN]* Type /YES to confirm your modifications[/]
+
+[CYAN][22:33] <BOT_3000> vient de se connecter.[/]
+
+[BLUE][22:34][/] [ORANGE]<NinjaPhr34k> :[/] att waaaat ?! xD
+[BLUE][22:34][/] [ORANGE]<D3LT4_CRASH> :[/] mdr j'teste un truc 2 sec
+[BLUE][22:35][/] [ORANGE]<NinjaPhr34k> :[/] tu m'fais peur xD
+[BLUE][22:37][/] [ORANGE]<D3LT4_CRASH> :[/] miam !
+[BLUE][22:37][/] [ORANGE]<BOT_3000> :[/] En effet, ça à l'air très appétissant ! Tu m'en donnes un deuz stp ?
+[BLUE][22:38][/] [ORANGE]<NinjaPhr34k> :[/] looool
+[BLUE][22:38][/] [ORANGE]<NinjaPhr34k> :[/] le bot le plus utile du monde xD tu comptes en faire quelque chose pour nos prochains plan ?
+[BLUE][22:38][/] [ORANGE]<D3LT4_CRASH> :[/] ¯\_(ツ)_/¯
+[BLUE][22:41][/] [ORANGE]<NinjaPhr34k> :[/] xD
+[CYAN]* Missing command[/]

@@ -1,0 +1,7 @@
+$commands: open orange.png
+$from: any
+.[WAIT002].[WAIT002].[WAIT002]
+
+[RED][Fichier Protégé][/]
+
+Veuillez entrer le mot de passe pour ouvrir ce fichier.

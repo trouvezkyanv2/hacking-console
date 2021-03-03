@@ -1,0 +1,22 @@
+$commands: open chatlog_071020.log
+$from: any
+$file: chatlog_071020.log
+
+[CYAN][01:00] <NinjaPhr34k> s'est déconnecté.[/]
+
+[CYAN][02:03] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][13:21] <NinjaPhr34k> vient de se connecter.[/]
+
+[BLUE][13:21][/] [ORANGE]<NinjaPhr34k> :[/] Slt bien ou bien ?
+[BLUE][13:35][/] [ORANGE]<NinjaPhr34k> :[/] ptn j'avais pas grillé que t'étais pas co xD
+
+[CYAN][14:41] <D3LT4_CRASH> vient de se connecter.[/]
+
+[BLUE][14:41][/] [ORANGE]<D3LT4_CRASH> :[/] Coucou !
+[BLUE][14:41][/] [ORANGE]<NinjaPhr34k> :[/] Slt ca va ?
+[BLUE][14:42][/] [ORANGE]<D3LT4_CRASH> :[/] Ouais et toi ?
+[BLUE][14:42][/] [ORANGE]<NinjaPhr34k> :[/] Ca va !
+[BLUE][22:10][/] [ORANGE]<D3LT4_CRASH> :[/] Tiens, j'écoute ça en bossant, c'est insane
+[BLUE][22:10][/] [ORANGE]<D3LT4_CRASH> :[/] https://youtu.be/vGV5YoJNVDs
+[BLUE][22:57][/] [ORANGE]<NinjaPhr34k> :[/] lol pas mal

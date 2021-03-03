@@ -1,0 +1,18 @@
+$commands: open D3LT4_f1lmz.favlist
+$file: D3LT4_f1lmz.favlist
+$from: any
+[BLUE]tt: 0086567023421503143310337978007765101132431436571103403211040010087800
+043440901672600110912132025302442440317740[/]
+
+<list>Films favoris
+
+[CYAN]# TODO : Ranger, faire classement[/]
+
+[CYAN]###[/] [RED]♥♥♥[/]
+[CYAN]    - films avec du h4cking dedans
+    - films d'horreur
+    - 0005458, 0000246, 0915989, 0001570, 0000093, 1083271, 0424060
+    - films - de 2h
+    - films < 2005
+###[/]
+

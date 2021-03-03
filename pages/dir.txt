@@ -1,0 +1,53 @@
+$commands: dir, ls, list
+$from: any
+[CYAN]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ DIR ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+TYPE      DATE                NOM
+-------------------------------------------------------------------------[/]
+[BLUE]<TEXTE>[/]   [YELLOW]23-02-2021 23:59[/]    chatlog_230221.log
+[BLUE]<IMAGE>[/]   [YELLOW]12-02-2021 15:30[/]    orange.png
+[BLUE]<PROGR>[/]   [YELLOW]26-12-2020 22:13[/]    cyberpunk_2077.exe
+[BLUE]<TEXTE>[/]   [YELLOW]16-11-2020 23:59[/]    chatlog_161120.log
+[BLUE]<TEXTE>[/]   [YELLOW]01-11-2020 20:18[/]    notes.txt
+[BLUE]<TEXTE>[/]   [YELLOW]30-10-2020 23:59[/]    chatlog_301020.log
+[BLUE]<TEXTE>[/]   [YELLOW]08-10-2020 17:46[/]    new_document(1).txt
+[BLUE]<TEXTE>[/]   [YELLOW]07-10-2020 23:59[/]    chatlog_071020.log
+[BLUE]<PROGR>[/]   [YELLOW]05-07-2020 19:15[/]    wps_scanner.exe
+[BLUE]<PROGR>[/]   [YELLOW]05-07-2020 19:09[/]    teracrack.exe
+[BLUE]<PROGR>[/]   [YELLOW]05-07-2020 20:07[/]    tuneboy_emulator.exe
+[BLUE]<TEXTE>[/]   [YELLOW]05-07-2020 19:32[/]    new_document.txt
+[BLUE]<TEXTE>[/]   [YELLOW]10-06-2020 23:59[/]    chatlog_100620.log
+[BLUE]<IMAGE>[/]   [YELLOW]10-06-2020 14:22[/]    art_test.ascii
+[BLUE]<TEXTE>[/]   [YELLOW]16-03-2020 23:59[/]    chatlog_160320.log
+[BLUE]<TEXTE>[/]   [YELLOW]14-03-2020 23:59[/]    chatlog_140320.log
+[BLUE]<TEXTE>[/]   [YELLOW]05-03-2020 23:59[/]    chatlog_050320.log
+[BLUE]<IMAGE>[/]   [YELLOW]04-02-2020 22:51[/]    forum_pseudo.ascii
+[BLUE]<TEXTE>[/]   [YELLOW]01-01-2020 23:59[/]    chatlog_010120.log
+[BLUE]<PROGR>[/]   [YELLOW]01-01-2020 23:01[/]    grooveshark.exe
+[BLUE]<TEXTE>[/]   [YELLOW]03-12-2019 23:59[/]    chatlog_031219.log
+[BLUE]<PROGR>[/]   [YELLOW]14-11-2019 21:39[/]    swordfish3000.exe
+[BLUE]<IMAGE>[/]   [YELLOW]14-11-2019 20:45[/]    xalay.ascii
+[BLUE]<TEXTE>[/]   [YELLOW]04-11-2019 23:59[/]    chatlog_041119.log
+[BLUE]<TEXTE>[/]   [YELLOW]20-10-2019 23:59[/]    chatlog_201019.log
+[BLUE]<TEXTE>[/]   [YELLOW]16-10-2019 23:59[/]    chatlog_161019.log
+[BLUE]<PROGR>[/]   [YELLOW]06-07-2018 22:13[/]    chromium_cli.exe
+[BLUE]<IMAGE>[/]   [YELLOW]25-08-2017 19:23[/]    vacances2017-d617l.ascii
+[BLUE]<IMAGE>[/]   [YELLOW]20-08-2017 15:08[/]    kiziumt.ascii
+[BLUE]<IMAGE>[/]   [YELLOW]20-08-2017 15:05[/]    qjvcjax.ascii
+[BLUE]<IMAGE>[/]   [YELLOW]14-09-2016 20:45[/]    vacances2016-c677i.ascii
+[BLUE]<IMAGE>[/]   [YELLOW]28-08-2015 08:17[/]    rjitw.ascii
+[BLUE]<IMAGE>[/]   [YELLOW]30-07-2015 08:17[/]    vacances2015-b751f.ascii
+[BLUE]<PROGR>[/]   [YELLOW]05-06-2015 22:13[/]    manotxt.exe
+[BLUE]<PROGR>[/]   [YELLOW]05-06-2015 22:12[/]    analysis_tool.exe
+
+
+[RED][Plusieurs fichiers cachés détectés][/]
+
+
+[CYAN]
+-------------------------------------------------------------------------[/]
+
+Commandes disponibles:
+
+    open [NOM]         Ouvrir un fichier/programme
+    exit               Revenir à l'accueil

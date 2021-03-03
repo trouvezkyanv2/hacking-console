@@ -1,0 +1,3 @@
+$commands: home, accueil, exit, start
+$from: any
+Bienvenue, D3LT4_CRASH.

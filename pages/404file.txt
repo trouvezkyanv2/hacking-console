@@ -1,0 +1,1 @@
+[RED][ERREUR][/] [ORANGE]Le fichier "XXX" est introuvable.[/]

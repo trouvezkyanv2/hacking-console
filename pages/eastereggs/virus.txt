@@ -1,0 +1,8 @@
+$commands: virus, virus.exe, open virus.exe, install virus
+$from: any
+
+[ORANGE]INSTALLING VIRUS[WAIT005].[WAIT005].[WAIT005].[WAIT030][/]
+
+VIRUS INSTALLED!
+[WAIT010]
+SORRY.

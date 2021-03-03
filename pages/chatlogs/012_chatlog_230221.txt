@@ -1,0 +1,82 @@
+$commands: open chatlog_230221.log
+$from: any
+$file: chatlog_230221.log
+
+[BLUE][01:15][/] [ORANGE]<NinjaPhr34k> :[/] J'y go, bonne soirée
+[BLUE][01:17][/] [ORANGE]<PeT1tS@Jj> :[/] Tchao
+[BLUE][01:17][/] [ORANGE]<D3LT4_CRASH> :[/] A demain !
+
+[CYAN][01:22] <NinjaPhr34k> s'est déconnecté.[/]
+
+[CYAN][01:58] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][05:20] <PeT1tS@Jj> s'est déconnecté.[/]
+
+[CYAN][08:38] <DevilCaïelle> vient de se connecter.[/]
+
+[BLUE][08:39][/] [ORANGE]<DevilCaïelle> :[/] Bonjour tout le monde !
+
+[CYAN][09:11] <PeT1tS@Jj> vient de se connecter.[/]
+
+[BLUE][09:11][/] [ORANGE]<PeT1tS@Jj> :[/] Salut Devil, ça va ?
+[BLUE][09:12][/] [ORANGE]<DevilCaïelle> :[/] Bonjour, ça va très bien et toi ?
+[BLUE][09:12][/] [ORANGE]<PeT1tS@Jj> :[/] Ça va ouais, je te remercie :)
+
+[CYAN][11:47] <NinjaPhr34k> vient de se connecter.[/]
+
+[CYAN][11:48] <D3LT4_CRASH> vient de se connecter.[/]
+
+[BLUE][11:48][/] [ORANGE]<PeT1tS@Jj> :[/] Ce timing ! Salut les gars
+[BLUE][11:48][/] [ORANGE]<D3LT4_CRASH> :[/] Hello mdr!
+[BLUE][11:48][/] [ORANGE]<DevilCaïelle> :[/] Bonjour à vous !
+[BLUE][11:49][/] [ORANGE]<NinjaPhr34k> :[/] Slt tlm
+[BLUE][11:49][/] [ORANGE]<D3LT4_CRASH> :[/] bon bah si tout le monde est déjà là on peut faire le point du coup ?
+[BLUE][11:49][/] [ORANGE]<NinjaPhr34k> :[/] Carrément, le tmps d'ouvrir mes softs et j'arrive
+[BLUE][11:50][/] [ORANGE]<PeT1tS@Jj> :[/] Pour ma part, j'ai pas grand chose de nouveau, ethan me livre la vidéo ce soir normalement
+[BLUE][11:50][/] [ORANGE]<PeT1tS@Jj> :[/] les calques sont déjà prêt et tout, donc aujourd'hui j'vais m'occuper de leur énigme radio & gameboy
+[BLUE][11:50][/] [ORANGE]<PeT1tS@Jj> :[/] (tjr aussi nulles d'ailleurs... ils se prennent tellement au sérieux ça fait pitié...)
+[BLUE][11:49][/] [ORANGE]<NinjaPhr34k> :[/] lol +1 de ouf
+[BLUE][11:51][/] [ORANGE]<D3LT4_CRASH> :[/] Insane ! J'ai hâte de voir le résultat
+[BLUE][11:51][/] [ORANGE]<PeT1tS@Jj> :[/] Pareil héhé
+[BLUE][11:51][/] [ORANGE]<PeT1tS@Jj> :[/] y vont tellement pas voir venir le coup !
+[BLUE][11:51][/] [ORANGE]<NinjaPhr34k> :[/] lol
+[BLUE][11:52][/] [ORANGE]<NinjaPhr34k> :[/] de mon cote j'ai recup les acces, aucun soucis pour poster la vidéo dimanche, tout est ready
+[BLUE][11:52][/] [ORANGE]<D3LT4_CRASH> :[/] Putain, c'est juste énorme, les étoiles s'alignent mdr ^^
+[BLUE][11:56][/] [ORANGE]<D3LT4_CRASH> :[/] Et t'en est ou Devil toi ?
+[BLUE][12:33][/] [ORANGE]<DevilCaïelle> :[/] J'ai trouvé leur site internet, et justement, je travaille dessus à l'instant même (désolé pour le retard de réponse, ça ne se reproduira plus)
+[BLUE][12:33][/] [ORANGE]<D3LT4_CRASH> :[/] mdr pas de soucis t'excuse pas comme ça ^^
+[BLUE][12:34][/] [ORANGE]<PeT1tS@Jj> :[/] Si t'as besoin de visuels chui là Devil
+[BLUE][12:37][/] [ORANGE]<DevilCaïelle> :[/] C'est noté ! Merci beaucoup.
+[BLUE][12:40][/] [ORANGE]<D3LT4_CRASH> :[/] Bien joué les gars ! J'en reviens pas qu'on y soit arrivé. Merci encore !
+[BLUE][12:40][/] [ORANGE]<D3LT4_CRASH> :[/] Je continue de mettre en place les terminaux, ça sera pile prêt pour dimanche je pense ^^
+[BLUE][12:43][/] [ORANGE]<PeT1tS@Jj> :[/] Cool !
+[BLUE][12:47][/] [ORANGE]<NinjaPhr34k> :[/] gg
+[BLUE][16:31][/] [ORANGE]<DevilCaïelle> :[/] Vous savez comment on appelle le jeu où il faut résoudre un meurtre dans du gruyère ?
+[BLUE][16:51][/] [ORANGE]<DevilCaïelle> :[/] Une Leerdammurder party !
+[BLUE][16:53][/] [ORANGE]<NinjaPhr34k> :[/] ptn ca pop tellement à n'importe quel moment on dirait tu t'mets des reveils wesh xD
+[BLUE][16:53][/] [ORANGE]<NinjaPhr34k> :[/] full teubé expérience lol
+[BLUE][12:43][/] [ORANGE]<PeT1tS@Jj> :[/] haha
+[BLUE][16:57][/] [ORANGE]<D3LT4_CRASH> :[/] ¯\_(ツ)_/¯
+[BLUE][16:57][/] [ORANGE]<D3LT4_CRASH> :[/] J'lai vraiment pas comprise celle-là par contre
+[BLUE][16:58][/] [ORANGE]<DevilCaïelle> :[/] C'est par rapport aux murders party et la marque de fromage Leerdammer
+[BLUE][16:58][/] [ORANGE]<NinjaPhr34k> :[/] Tu l'avais pas dja fait s'te blague ?
+[BLUE][17:00][/] [ORANGE]<DevilCaïelle> :[/] Non ! C'était "Hitlerdammer ou il fait un mahler"
+[BLUE][17:05][/] [ORANGE]<D3LT4_CRASH> :[/] Bon Devil, c'est pas que ça saoule mais y'aurait peut-être moyen de fréner les blagues limites non ? ^^
+[BLUE][17:05][/] [ORANGE]<DevilCaïelle> :[/] J'en ai une dernière ! Je peux ?
+[BLUE][17:54][/] [ORANGE]<DevilCaïelle> :[/] Bon je vous la fait quand même :
+[CYAN]* You're not allowed to speak within 152 minutes[/]
+[CYAN]* You're not allowed to speak within 130 minutes[/]
+[BLUE][18:17][/] [ORANGE]<D3LT4_CRASH> :[/] ༼ง=ಠ益ಠ=༽ง  < DevilCaielle
+[BLUE][18:17][/] [ORANGE]<D3LT4_CRASH> :[/] On t'entend pas hein
+[CYAN]* You're not allowed to speak within 128 minutes[/]
+[CYAN]* You're not allowed to speak within 128 minutes[/]
+[CYAN]* You're not allowed to speak within 85 minutes[/]
+[BLUE][19:21][/] [ORANGE]<PeT1tS@Jj> :[/] Video reçue ! J'me mets au boulot
+[BLUE][19:22][/] [ORANGE]<NinjaPhr34k> :[/] chanmé !!!
+[BLUE][19:22][/] [ORANGE]<D3LT4_CRASH> :[/] Go Go Go ✺◟(*▾*)◞✺ Go Go Go
+[CYAN]* You're not allowed to speak within 64 minutes[/]
+[BLUE][22:45][/] [ORANGE]<PeT1tS@Jj> :[/] Vidéo envoyée, à vous de jouer [RED]@D3LT4_CRASH @NinjaPhr34k[/]
+[BLUE][22:47][/] [ORANGE]<D3LT4_CRASH> :[/] EN ROUTE ! ᕕ(ᐛ)ᕗ
+[BLUE][22:47][/] [ORANGE]<D3LT4_CRASH> :[/] Merci beaucoup Ptitsaj
+[BLUE][23:53][/] [ORANGE]<NinjaPhr34k> :[/] nice merci ! du coup on s'donne rdv demain, même heure ?
+[BLUE][23:57][/] [ORANGE]<D3LT4_CRASH> :[/] Ouaip ! J'en profiterai pour vous donner le mdp d'ailleurs

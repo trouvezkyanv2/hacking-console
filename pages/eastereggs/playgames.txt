@@ -1,0 +1,4 @@
+$commands: play games, games
+$from: any
+
+[ORANGE]No games found.[/]

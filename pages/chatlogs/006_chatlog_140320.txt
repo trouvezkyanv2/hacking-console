@@ -1,0 +1,7 @@
+$commands: open chatlog_140320.log
+$from: any
+$file: chatlog_140320.log
+
+[CYAN][00:16] <NinjaPhr34k> s'est déconnecté.[/]
+
+[CYAN][12:36] <NinjaPhr34k> vient de se connecter.[/]

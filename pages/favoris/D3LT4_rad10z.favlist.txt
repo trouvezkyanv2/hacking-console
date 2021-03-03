@@ -1,0 +1,10 @@
+$commands: open D3LT4_rad10z.favlist
+$file: D3LT4_rad10z.favlist
+$from: any
+
+<list>Radios Favorites</list>
+    - ./radioh4ck3000.flux
+    - ./tech_core_XKLMN_RADIO.flux
+    - ./gamers_lounge_soundtracks_h24.flux
+    - ./hackermans_pirateradio.flux
+    - ./lofi_beats_to_code-hack_to.flux

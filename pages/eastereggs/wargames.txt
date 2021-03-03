@@ -1,0 +1,9 @@
+$commands: falken, wargames, global thermonuclear war, help games, list games
+$from: any
+GREETINGS PROFESSOR FALKEN.[WAIT030]
+
+A STRANGE GAME.[WAIT030]
+
+THE ONLY WINNING MOVE IS NOT TO PLAY.[WAIT040]
+
+HOW ABOUT A NICE GAME OF CHESS?

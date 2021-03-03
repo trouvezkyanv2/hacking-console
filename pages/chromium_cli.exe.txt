@@ -1,0 +1,7 @@
+$from: any
+$commands: chromium_cli.exe, open chromium_cli.exe
+
+Running [CYAN]chromium_cli.exe[/][WAIT002].[WAIT002].[WAIT002].[WAIT005]
+
+[RED][ERROR][/] [ORANGE]Vous ne disposez pas des droits suffisants pour vous connecter au réseau.[/][WAIT005]
+

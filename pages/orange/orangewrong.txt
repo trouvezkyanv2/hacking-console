@@ -1,0 +1,6 @@
+$commands: any
+$from: orangerequest, orangewrong
+
+[ORANGE][Mot de passe refusé][/]
+
+Veuillez réessayer, ou entrez "exit" pour revenir à l'accueil.

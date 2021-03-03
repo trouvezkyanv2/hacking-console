@@ -1,0 +1,6 @@
+$commands: ça va et toi?, bien et toi?, et toi?, et vous?, bien et vous?
+$from: salut
+
+Difficile à dire, je ne suis pas programmé pour ressentir.
+
+Merci quand même de vous intéresser à moi !

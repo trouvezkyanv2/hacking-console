@@ -1,0 +1,14 @@
+$from: any
+$commands: open decryptor3000_tests.code
+$file: decryptor3000_tests.code
+
+[CYAN]// Tests pour decryptor3000[/]
+function [ORANGE]test[/]() {
+    var [YELLOW]testCode[/] = [RED]'C3c1-Est-1-Test!'[/];
+    
+    [CYAN]// Renvoie : 'XNZw-5aj-w-2Gajo'[/]
+    [YELLOW]testCode[/].[ORANGE]cesar[/](clef: [RED]10[/], alphabet: [YELLOW]alphabet01[/])
+
+    [CYAN]// Renvoie : 'Nbyk-Nh@-I-YGguC'[/]
+    [YELLOW]testCode[/].[ORANGE]vigenere[/](clef: [RED]'Helloles@mis!'[/], alphabet: [YELLOW]alphabet01[/])
+}

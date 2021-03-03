@@ -1,0 +1,4 @@
+$commands: rm, rm *
+$from: any
+
+[RED][ERREUR][/] Vous ne disposez pas des droits nécessaires.

@@ -1,0 +1,101 @@
+$commands: open chatlog_161120.log
+$from: any
+$file: chatlog_161120.log
+
+[CYAN][00:32] <DevilCaïelle> s'est déconnecté.[/]
+
+[CYAN][03:11] <NinjaPhr34k> s'est déconnecté.[/]
+
+[CYAN][03:13] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][10:09] <DevilCaïelle> vient de se connecter.[/]
+
+[BLUE][10:10][/] [ORANGE]<DevilCaïelle> :[/] Salut la compagnie ! Ça va bien ?
+
+[CYAN][13:01] <NinjaPhr34k> vient de se connecter.[/]
+
+[BLUE][13:02][/] [ORANGE]<NinjaPhr34k> :[/] Slt tlm
+[BLUE][13:02][/] [ORANGE]<NinjaPhr34k> :[/] ca va ?
+[BLUE][13:03][/] [ORANGE]<DevilCaïelle> :[/] Bonjour ! Ça va très bien et toi ?
+
+[CYAN][13:31] <D3LT4_CRASH> vient de se connecter.[/]
+
+[BLUE][13:34][/] [ORANGE]<D3LT4_CRASH> :[/] Hello tout le monde !
+[BLUE][13:35][/] [ORANGE]<NinjaPhr34k> :[/] slt !
+[BLUE][13:35][/] [ORANGE]<DevilCaïelle> :[/] Bonjour ! Comment ça va ?
+[BLUE][13:42][/] [ORANGE]<D3LT4_CRASH> :[/] Vous avez vu l'énigme d'hier ?
+[BLUE][13:42][/] [ORANGE]<NinjaPhr34k> :[/] Nop ! S'passe quoi ?
+[BLUE][13:43][/] [ORANGE]<D3LT4_CRASH> :[/] Y'a une putain de pub pour des céréales c'est nimp 
+[BLUE][13:43][/] [ORANGE]<DevilCaïelle> :[/] Oui, Mc Fly et Carlito sont les invités de cet épisode !
+[BLUE][13:43][/] [ORANGE]<NinjaPhr34k> :[/] ptn y saoulent, c'est vraiment des bouffons
+[BLUE][13:43][/] [ORANGE]<D3LT4_CRASH> :[/] qui ça mdr mc fly & carli ?
+[BLUE][13:44][/] [ORANGE]<NinjaPhr34k> :[/] Non lol
+[BLUE][13:44][/] [ORANGE]<NinjaPhr34k> :[/] J'parle des crafters
+[BLUE][13:44][/] [ORANGE]<D3LT4_CRASH> :[/] Ah ^^ c'est qu'une question de temps ça :)
+[BLUE][13:46][/] [ORANGE]<DevilCaïelle> :[/] Ouf, j'ai cru que tu parlais de Mc Fly et Carlito.
+[BLUE][13:47][/] [ORANGE]<D3LT4_CRASH> :[/] D'ailleurs ethan nous a proposé une réunion pour mettre le truc en place
+[BLUE][13:47][/] [ORANGE]<D3LT4_CRASH> :[/] Il voudrait aussi nous présenter un "Nico" qui bosse avec lui et qui pourrait nous aider
+[BLUE][13:47][/] [ORANGE]<D3LT4_CRASH> :[/] Z'êtes dispo demain ?
+[BLUE][13:48][/] [ORANGE]<NinjaPhr34k> :[/] Wé de ouf, vers quelle heure ?
+[BLUE][13:50][/] [ORANGE]<D3LT4_CRASH> :[/] J'sais pas, 14/15h, j'sais qu'il se lève tard
+[BLUE][13:50][/] [ORANGE]<NinjaPhr34k> :[/] lol s'noté merci
+[BLUE][13:52][/] [ORANGE]<DevilCaïelle> :[/] Oui je suis disponible demain ! Tu as un créneau horaire ?
+[BLUE][13:53][/] [ORANGE]<DevilCaïelle> :[/] Pardon j'avais pas vu ta réponse. C'est okay pour moi.
+[BLUE][16:16][/] [ORANGE]<NinjaPhr34k> :[/] Je viens d'avoir ma mère tel là, ma grand-mère a eu un grave accident...
+[BLUE][16:16][/] [ORANGE]<D3LT4_CRASH> :[/] Oh, vraiment désolé pour toi :( 
+[BLUE][16:16][/] [ORANGE]<D3LT4_CRASH> :[/] Qu'est ce qu'y'a eu ?
+[BLUE][16:17][/] [ORANGE]<DevilCaïelle> :[/] Toutes mes condoléances NinjaPhr34k.
+[BLUE][16:17][/] [ORANGE]<D3LT4_CRASH> :[/] Bah elle est pas décédé ? Si ?
+[BLUE][16:19][/] [ORANGE]<NinjaPhr34k> :[/] C'était s'matin au alentour de 10h, elle a percuté un camion à la sortie de l'A1. Apparemment c'était un mec avec un sale accent, qui écoutait d'la musique de merde à fond, il a pas entendu ma grand-mère arriver par la droite et... apparemment y aurait retrouvé des morceaux du corps de ma mamie jusqu'à 10 mètre plus loin... l'image est juste horrible
+[BLUE][16:19][/] [ORANGE]<BOT_3000> :[/] En effet, ça à l'air très appétissant ! Tu m'en donnes un deuz stp ?
+[BLUE][16:19][/] [ORANGE]<NinjaPhr34k> :[/] ?
+[CYAN]* Missing command[/]
+[CYAN]* Missing command[/]
+[BLUE][16:20][/] [ORANGE]<D3LT4_CRASH> :[/] Putain... miam et mamie... j'ai tellement codé ça avec le cul...
+[BLUE][16:20][/] [ORANGE]<BOT_3000> :[/] En effet, ça à l'air très appétissant ! Tu m'en donnes un deuz stp ?
+[BLUE][16:20][/] [ORANGE]<BOT_3000> :[/] En effet, ça à l'air très appétissant ! Tu m'en donnes un deuz stp ?
+
+[CYAN][16:20] <BOT_3000> vient d'être banni.[/]
+
+[BLUE][16:21][/] [ORANGE]<D3LT4_CRASH> :[/] Je suis vraiment désolé...
+[BLUE][16:22][/] [ORANGE]<NinjaPhr34k> :[/] np
+[BLUE][16:24][/] [ORANGE]<DevilCaïelle> :[/] Tu sais NinjaPhr34k, je pense que dans la vie il y a des phases. Moi aussi j'ai perdu ma grand-mère lors d'un accident. Enfin, pas tout à fait un accident mais, j'aime à qualifier ainsi cet effroyable phénomène : la vieillesse. Elle est morte dans son sommeil et j'aime à penser que, même si elle est partie sans souffrance, c'est un terrible accident qui l'a oté de ce monde, et surtout, des siens à qui elle manque beaucoup. Moi, pour me rassurer, je me dis qu'elle est dorénavant dans un endroit calme et pés
+[BLUE][16:26][/] [ORANGE]<DevilCaïelle> :[/] ible, avec tous les personnes qui l'aime et qu'elle nous regarde de là-haut en nous faisant de petits clins d'oeils coquins ! Ce que je veux dire par là, c'est que c'est surement mieux ainsi.
+[BLUE][16:26][/] [ORANGE]<D3LT4_CRASH> :[/] Tiens-nous au courant en tout cas, si on peut aider.
+[BLUE][16:27][/] [ORANGE]<DevilCaïelle> :[/] Oups j'ai appuyé sur Entrée sans faire exprès
+[BLUE][16:30][/] [ORANGE]<NinjaPhr34k> :[/] T'sais, en fin de compte c'est + choquant que triste en fait, finalement j'la connaissais pas beaucoup, s'juste que la façon dont c'est arrivé et tout, c'est une mort juste horrible quoi 
+[BLUE][16:30][/] [ORANGE]<D3LT4_CRASH> :[/] Ouais j'vois
+[BLUE][18:53][/] [ORANGE]<DevilCaïelle> :[/] Moi je suis en train de découper des extraits de discours de George Bush
+[BLUE][19:10][/] [ORANGE]<NinjaPhr34k> :[/] wat ? qu'est ce que tu vas en foutre ? xD
+[BLUE][19:10][/] [ORANGE]<DevilCaïelle> :[/] Une vidéo d'ASMR de bruits de Bush.
+[BLUE][19:12][/] [ORANGE]<D3LT4_CRASH> :[/] ¯\_(ツ)_/¯
+[BLUE][19:12][/] [ORANGE]<NinjaPhr34k> :[/] lol
+[BLUE][19:13][/] [ORANGE]<D3LT4_CRASH> :[/]
+[BLUE][19:14][/] [ORANGE]<D3LT4_CRASH> :[/] （╯°□°)╯︵( .o.)  < DevilCaielle
+[BLUE][19:14][/] [ORANGE]<D3LT4_CRASH> :[/]
+[BLUE][19:17][/] [ORANGE]<DevilCaïelle> :[/] ⸮ ɿɘvɘ|ɘɿ ɘm ɒ́ ɿɘbiɒ'm ƚuɘq ᴎu'up|ɘup
+[BLUE][19:18][/] [ORANGE]<NinjaPhr34k> :[/] lol
+[BLUE][19:20][/] [ORANGE]<D3LT4_CRASH> :[/] bon, moi j'y retourne ! à toute
+[BLUE][19:20][/] [ORANGE]<D3LT4_CRASH> :[/] Bon courage Nin, si j'peux faire quoique ce soit n'hésites pas !
+[BLUE][19:22][/] [ORANGE]<NinjaPhr34k> :[/] Merci tkt, j'vais aller m'occuper de ma mère surtout, s't'elle qu'à besoin le plus de soutiens surtout
+
+[CYAN][19:22] <NinjaPhr34k> s'est déconnecté.[/]
+
+[BLUE][19:22][/] [ORANGE]<DevilCaïelle> :[/] La même chose pour moi, n'hésites pas à me solliciter NinjaPhr34k.
+[CYAN]* Type /YES to confirm your modifications[/]
+[BLUE][21:17][/] [ORANGE]<DevilCaïelle> :[/] Pardon ?
+[CYAN]* You're not allowed to modify this[/]
+[CYAN]* You're not allowed to modify this[/]
+[CYAN]* You're not allowed to modify this[/]
+[CYAN]* You're not allowed to modify this[/]
+[BLUE][21:19][/] [ORANGE]<DevilCaïelle> :[/] Bon, j'ai essayé de taper /YES mais ça n'a pas l'air de fonctionner, je dois surement mal m'y prendre
+[CYAN]* You're not allowed to modify this[/]
+[CYAN]* You're not allowed to modify this[/]
+[BLUE][19:20][/] [ORANGE]<D3LT4_CRASH> :[/] Nan t'inquiète c'est moi, j'trifouille des trucs sur le serveur
+[BLUE][19:22][/] [ORANGE]<DevilCaïelle> :[/] Ah d'accord ! Très bien. Qu'es-tu en train de faire ?
+[BLUE][22:37][/] [ORANGE]<DevilCaïelle> :[/] Allez, j'en ai une bonne pour cette fin de soirée !
+[BLUE][22:38][/] [ORANGE]<DevilCaïelle> :[/] Comment appelle-t-on un trapésiste qui a eu un accident ?
+
+[CYAN][22:38] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[BLUE][23:59][/] [ORANGE]<DevilCaïelle> :[/] Un tétrapésiste.

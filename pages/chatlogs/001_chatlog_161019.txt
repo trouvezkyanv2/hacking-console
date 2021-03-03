@@ -1,0 +1,50 @@
+$commands: open chatlog_161019.log
+$from: any
+$file: chatlog_161019.log
+
+[CYAN][15:27] <D3LT4_CRASH> vient de se connecter.[/]
+
+[BLUE][15:27][/] [ORANGE]<D3LT4_CRASH> :[/] test
+[BLUE][15:31][/] [ORANGE]<D3LT4_CRASH> :[/] hello word
+[CYAN]* Current time already set to UTC+1[/]
+[CYAN]* Missing command[/]
+[CYAN]* Missing command[/]
+[BLUE][15:32][/] [ORANGE]<D3LT4_CRASH> :[/] hello powerpoint
+[BLUE][15:45][/] [ORANGE]<D3LT4_CRASH> :[/] i/nvite NinjaPhr34k
+
+[CYAN][16:41] <NinjaPhr34k> vient de se connecter.[/]
+
+[BLUE][16:41][/] [ORANGE]<NinjaPhr34k> :[/] Il était tmps !
+[BLUE][16:42][/] [ORANGE]<D3LT4_CRASH> :[/] j'avoue ^^
+[BLUE][16:42][/] [ORANGE]<D3LT4_CRASH> :[/] "20 ans après ils mettent enfin en place un chat" mdr
+[BLUE][16:44][/] [ORANGE]<D3LT4_CRASH> :[/] En tout cas c'est full crypté, ça sera tjr mieux que passer par d'autres messageries
+[BLUE][16:45][/] [ORANGE]<NinjaPhr34k> :[/] On est à deux doigts de réinventer MSN lol
+[BLUE][16:45][/] [ORANGE]<D3LT4_CRASH> :[/] mdrrr
+[BLUE][16:52][/] [ORANGE]<NinjaPhr34k> :[/] [b][x=#FF0000-#FFFF00-#80FF00-#02FEE9-#0202FE-#FC01FF]<-_-[/x][c=#ff0000]Niinj[i]aaAaa[/i]Phr34k[/c][x=#FC01FF#0202FE-#02FEE9-#80FF00-#FFFF00-#FF0000]-_->[/x][b]
+[BLUE][16:53][/] [ORANGE]<D3LT4_CRASH> :[/] ?
+[BLUE][16:53][/] [ORANGE]<NinjaPhr34k> :[/] J'ai tenté le pseudo en couleur comme avec MSN plus lol. Spoiler, ça marche pas !
+[BLUE][16:55][/] [ORANGE]<D3LT4_CRASH> :[/] Nan bah nan ^^
+
+[CYAN][17:23] <jessica62> vient de se connecter.[/]
+
+[BLUE][17:23][/] [ORANGE]<jessica62> :[/] cc
+[BLUE][17:23][/] [ORANGE]<jessica62> :[/] asv ?
+[BLUE][17:41][/] [ORANGE]<jessica62> :[/] allo
+[CYAN]* Missing command[/]
+
+[CYAN][17:59] <jessica62> vient d'être banni.[/]
+
+[BLUE][17:59][/] [ORANGE]<D3LT4_CRASH> :[/] Oups o_o'
+[BLUE][18:00][/] [ORANGE]<D3LT4_CRASH> :[/] ça c'était pas prévu, j'vais vérifier d'ou vient le soucis...
+[BLUE][18:02][/] [ORANGE]<NinjaPhr34k> :[/] lol
+[CYAN]* Type /YES to confirm your modifications[/]
+[BLUE][18:09][/] [ORANGE]<D3LT4_CRASH> :[/] C'est bon ! ٩(^ᴗ^)۶
+[BLUE][18:09][/] [ORANGE]<D3LT4_CRASH> :[/] Petit oublie de ma part ^^' 
+[BLUE][18:10][/] [ORANGE]<NinjaPhr34k> :[/] C'est pas comme si c'était LE seul truc auquel y fallait faire attention lol
+[BLUE][18:11][/] [ORANGE]<D3LT4_CRASH> :[/] nan mais c'était un truc à activer au niveau du serveur sinon le reste est okay
+[BLUE][18:12][/] [ORANGE]<D3LT4_CRASH> :[/] après, dans le doute, attendons un peu de voir s'il y a d'autres prob avant de parler plus... ^^
+[CYAN]* Missing command[/]
+[CYAN]* Missing command[/]
+[CYAN]* Type /YES to confirm your modifications[/]
+
+[CYAN][23:23] <NinjaPhr34k> s'est déconnecté.[/]

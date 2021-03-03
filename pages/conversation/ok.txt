@@ -1,0 +1,4 @@
+$commands: ok, okay
+$from: any
+
+Ok!

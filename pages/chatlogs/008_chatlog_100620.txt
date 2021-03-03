@@ -1,0 +1,12 @@
+$commands: open chatlog_100620.log
+$from: any
+$file: chatlog_100620.log
+
+[CYAN][02:25] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][11:01] <NinjaPhr34k> vient de se connecter.[/]
+
+[CYAN][14:03] <D3LT4_CRASH> vient de se connecter.[/]
+
+[BLUE][14:04][/] [ORANGE]<D3LT4_CRASH> :[/] Hello !
+[BLUE][14:04][/] [ORANGE]<NinjaPhr34k> :[/] Slt

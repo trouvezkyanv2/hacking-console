@@ -1,0 +1,4 @@
+$commands: open new_document.txt, open new_document(1).txt
+$from: any
+$file: new_document.txt
+

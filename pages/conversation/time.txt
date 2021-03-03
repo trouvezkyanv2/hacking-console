@@ -1,0 +1,3 @@
+$commands: time, heure, what time, horloge, current time
+$from: any
+Il est l'heure d'aller vous coucher. Ces énigmes vous montent à la tête.

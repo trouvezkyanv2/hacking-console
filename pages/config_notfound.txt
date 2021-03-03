@@ -1,0 +1,14 @@
+$commands: open config, open configuration.txt, open config.txt, open main.conf, open config.conf, open sys.conf, open conf.txt
+$from: any
+
+[RED][ERREUR][/] [ORANGE]Fichier introuvable.
+
+[WAIT002].[WAIT002].[WAIT002].[WAIT015][/]
+
+[CYAN]1[/] [WAIT005]fichier similaire trouvé:[WAIT005]
+
+    [CYAN]- main_config.conf[/]
+
+[WAIT015]
+    open [NOM]         Ouvrir un fichier/programme
+    exit               Revenir à l'accueil

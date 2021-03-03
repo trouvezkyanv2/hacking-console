@@ -1,0 +1,7 @@
+$commands: wps_scanner.exe, teracrack.exe, grooveshark.exe, swordfish3000.exe, analysis_tool.exe, open wps_scanner.exe, open teracrack.exe, open grooveshark.exe, open swordfish3000.exe, open analysis_tool.exe
+$from: any
+
+[CYAN]Loading[WAIT002].[WAIT002].[WAIT002].[WAIT005][/]
+
+[RED][ERROR][/] [ORANGE]Vous ne disposez pas des droits suffisants.[/][WAIT005]
+

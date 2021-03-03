@@ -1,0 +1,46 @@
+$commands: open chatlog_010120.log
+$from: any
+$file: chatlog_010120.log
+
+[CYAN][00:07] <D3LT4_CRASH> vient de se connecter.[/]
+
+[BLUE][00:07][/] [ORANGE]<D3LT4_CRASH> :[/] Bonne annéééééé !!!!
+[BLUE][00:09][/] [ORANGE]<D3LT4_CRASH> :[/]
+[BLUE][00:09][/] [ORANGE]<D3LT4_CRASH> :[/] (╯°□°）╯︵ ┻━┻
+[BLUE][00:09][/] [ORANGE]<D3LT4_CRASH> :[/]
+[BLUE][00:10][/] [ORANGE]<D3LT4_CRASH> :[/] ┻━┻︵◟(°□°◟）
+[BLUE][00:10][/] [ORANGE]<D3LT4_CRASH> :[/]
+[BLUE][00:10][/] [ORANGE]<D3LT4_CRASH> :[/] mdr
+[BLUE][00:18][/] [ORANGE]<D3LT4_CRASH> :[/] d'ailleurs semaine pro faut que j'te parle d'un truc, on va commencer l'année en beauté !!
+[BLUE][00:22][/] [ORANGE]<D3LT4_CRASH> :[/] Et puis merci d'être là hein !
+[BLUE][00:22][/] [ORANGE]<D3LT4_CRASH> :[/] c'est insane de pouvoir unir nos forces comme ça, c'est tellement bien !
+
+[CYAN][00:37] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][13:32] <D3LT4_CRASH> vient de se connecter.[/]
+
+[CYAN][17:23] <NinjaPhr34k> vient de se connecter.[/]
+
+[BLUE][17:24][/] [ORANGE]<NinjaPhr34k> :[/] Slt !
+[BLUE][17:24][/] [ORANGE]<NinjaPhr34k> :[/] Bonné année de ouf à toi aussi
+[BLUE][17:27][/] [ORANGE]<D3LT4_CRASH> :[/] Ah bah c'est pas trop tôt mdr
+[BLUE][17:28][/] [ORANGE]<NinjaPhr34k> :[/] wé dsl c'était fete de famille jusque pas d'heure
+[BLUE][17:28][/] [ORANGE]<NinjaPhr34k> :[/] ca m'a bien saoulé
+[BLUE][17:28][/] [ORANGE]<NinjaPhr34k> :[/] mais au moins y'avait nico qu'était là, il a pu me raconter ce qu'il s'est passé à St Paul
+[BLUE][17:29][/] [ORANGE]<NinjaPhr34k> :[/] apparemment angele a du refaire tous ses contrôles lol
+[CYAN]** <D3LT4_CRASH> se roule par terre de rire[/]
+[BLUE][17:30][/] [ORANGE]<D3LT4_CRASH> :[/] C'est tellement hard putain mdr
+[CYAN]** <NinjaPhr34k> se frotte les mains[/]
+[BLUE][17:33][/] [ORANGE]<NinjaPhr34k> :[/] bouarf elle l'a de ouf mérité
+[BLUE][17:34][/] [ORANGE]<NinjaPhr34k> :[/] nico m'a encore raconté ce qu'elle a fait et tout, s'pas rien, il a du voir un psy et tout, j'te raconter pas
+[BLUE][17:34][/] [ORANGE]<D3LT4_CRASH> :[/] Nan mais grave, c'est juste énorme
+[BLUE][17:34][/] [ORANGE]<NinjaPhr34k> :[/] et de son coté personne n'a grillé ses notes et appréciations donc...
+[BLUE][17:35][/] [ORANGE]<NinjaPhr34k> :[/] MISSION ACCOMPLIE !
+[CYAN]* Missing command[/]
+[CYAN]* Missing command[/]
+[BLUE][17:36][/] [ORANGE]<NinjaPhr34k> :[/] Qu'estce t'essaie d'faire ?! xD
+[BLUE][17:38][/] [ORANGE]<D3LT4_CRASH> :[/] mdr j'ai complétement foiré mon effet
+[BLUE][17:38][/] [ORANGE]<D3LT4_CRASH> :[/] mais du coup
+[BLUE][17:39][/] [ORANGE]<D3LT4_CRASH> :[/] BRAVOOOOO !!! ♪~ ᕕ(ᐛ)ᕗ
+[BLUE][17:40][/] [ORANGE]<D3LT4_CRASH> :[/] sur ce, on s'capte semaine pro ?
+[BLUE][17:49][/] [ORANGE]<NinjaPhr34k> :[/] De ouf

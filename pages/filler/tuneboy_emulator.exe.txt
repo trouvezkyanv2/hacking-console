@@ -1,0 +1,17 @@
+$commands: tuneboy_emulator.exe, open tuneboy_emulator.exe
+$from: any
+
+Running [CYAN]tuneboy_emulator.exe[/][WAIT002].[WAIT002].[WAIT002].[WAIT010]
+
+Loading VRAM data[WAIT002].[WAIT002].[WAIT002].[WAIT010]
+
+[RED]
+    ╔═════════════════╗
+    ║ #ERROR!#  CODE: ║
+    ║ A◘L♫X♀Z○♣RFW4$1 ║
+    ║ ♥Z8-WL80-■?♦☺5Y ║
+    ╚═════════════════╝
+[/]
+
+[ORANGE]tuneboy_emulator.exe a cessé de fonctionner.[/]
+

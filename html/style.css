@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    font-family: 'Courier Prime', Courier, monospace;
+    background-color: #000000;
+    font-size: 18px;
+}
+
+* {
+    font-family: 'Courier Prime', Courier, monospace;
+    background-color: #000000;
+    color: #00FF00;
+    box-sizing: border-box;
+}
+
+*::selection {
+    background-color: #005c00;
+}
+
+.orange, .orange * {
+    font-style: normal;
+    color: #ff9100;
+}
+
+.orange::selection, .orange *::selection {
+    background-color: #720000;
+}
+
+.cyan, .cyan * {
+    font-style: normal;
+    color: #00ffff;
+}
+
+.cyan::selection, .cyan *::selection {
+    background-color: #001881;
+}
+
+.red, .red * {
+    font-style: normal;
+    color: #ff3535;
+}
+
+.red::selection, .red *::selection {
+    background-color: #530000;
+}
+
+.yellow, .yellow * {
+    font-style: normal;
+    color: #ffff00;
+}
+
+.yellow::selection, .yellow *::selection {
+    background-color: #683700;
+}
+
+.blue, .blue * {
+    font-style: normal;
+    color: #0044ff;
+}
+
+.blue::selection, .blue *::selection {
+    background-color: #080080;
+}
+
+#console {
+    width: 805px;
+    height: 750px;
+    margin: 50px 0 0 200px;
+    overflow: hidden;
+}
+
+#console-content-container {
+    width: 100%;
+    height: 620px;
+    overflow: hidden;
+    /* border: 1px rgba(0, 255, 0, 0.158) solid; */
+}
+
+#console-content {
+    width: 100%;
+    overflow-wrap: auto;
+    word-break: normal;
+    line-height: 20px;
+}
+
+#console-infos {
+    display: none;
+    margin-top: 20px;
+    width: 100%;
+    height: 25px;
+    /* border: 1px rgba(0, 255, 0, 0.158) solid; */
+}
+
+#console-input {
+    display: none;
+    position: relative;
+    margin-top: 20px;
+    height: 25px;
+    width: 100%;
+}
+
+#console-input input {
+    position: absolute;
+    font-family: 'Courier Prime', Courier, monospace;
+    background-color: #000000;
+    border: #000000;
+    border-style: none;
+    border: 0;
+    outline: none;
+    font-size: 18px;
+    left: 20px;
+    width: 770px;
+    height: 100%;
+}
+
+#console-input .dash {
+    position: absolute;
+    display: block;
+    left: 0px;
+    width: 20px;
+    height: 100%;
+    padding-top: 5px;
+}
+
+.blink {
+    animation: blinker 1s step-end infinite;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}

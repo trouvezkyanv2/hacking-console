@@ -1,0 +1,4 @@
+$commands: sv_cheats 1, god, noclip, motherlode, greedisgood, rosebud, katching
+$from: home
+
+Cheat code activé !

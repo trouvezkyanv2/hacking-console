@@ -1,0 +1,30 @@
+$commands: playotron_cli.exe, open playotron_cli.exe
+$from: any
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ PLAYOTRON CLI ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+        Récemment ouvert :
+
+[CYAN]Nom du Fichier                           Année    Durée    Format
+-------------------------------------------------------------------------[/]
+prodigy_-_voodo_people.mp3               1994     06:27    MPEG-1/2-Lay3
+slashdotdash_fatboyslim.mp3              2004     02:53    MPEG-1/2-Lay3 
+flyleaf_imsosick.mp3                     2005     02:56    MPEG-1/2-Lay3    
+D3LT4_s0ngz.favlist                                        [LISTE FAVORIS]
+les_bom_momz-s01e03.mp4                           15:21    H.264
+bostom_smokin.mp3                        1976     04:21    MPEG-1/2-Lay3
+korn_freak_on_aleash.mp3                 1998     04:15    MPEG-1/2-Lay3  
+tutorial_how_to_hack_mimattack.mp4                07:48    H.264
+disturbed_shout2000.mp3                  2000     04:18    MPEG-1/2-Lay3 
+narcotic_influence_empirion.mp3          1996     05:55    MPEG-1/2-Lay3
+D3LT4_rad10z.favlist                                       [LISTE FAVORIS]
+leftfield_storm3000.mp3                  1995     05:44    MPEG-1/2-Lay3   
+...
+
+
+[ORANGE]Le player est actuellement indisponible. Veuillez mettre à jour 
+playotron_cli.exe depuis la console superadmin.[/]
+
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+> [CYAN]00:00[/] / [BLUE]00:00[/]  ■ ►  ○─────────────────────────────────   [YELLOW]Vol  ──────○──[/]

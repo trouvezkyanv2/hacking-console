@@ -1,0 +1,23 @@
+$commands: cyberpunk, play cyberpunk 2077, cyberpunk.exe, cyberpunk2077.exe, cyberpunk_2077.exe, play cyberpunk_2077.exe, play cyberpunk.exe, open cyberpunk.exe, open cyberpunk_2077.exe
+$from: home, dir
+
+Chargement du programme.[WAIT002].[WAIT002].[WAIT002][WAIT020]
+
+Attente de sortie du jeu.[WAIT002].[WAIT002].[WAIT002][WAIT020]
+
+[ORANGE][SORTIE REPOUSSÉE][/][WAIT030]
+
+Attente de sortie du jeu.[WAIT002].[WAIT002].[WAIT002][WAIT040]
+
+Chargement.[WAIT002].[WAIT002].[WAIT002][WAIT010]
+
+Retrait des magasins.[WAIT002].[WAIT002].[WAIT002]
+
+Remboursement.[WAIT002].[WAIT002].[WAIT002]
+
+[ORANGE][ERREUR DE REMBOURSEMENT][/][WAIT020]
+
+Chargement.[WAIT002].[WAIT002].[WAIT002][WAIT040]
+
+
+[RED][ERREUR][/][WAIT002] [YELLOW]cyberpunk_2077.exe a cessé de fonctionner.[/]

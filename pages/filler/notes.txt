@@ -1,0 +1,10 @@
+$commands: open notes.txt
+$from: any
+$file: notes.txt
+
+// Notes
+- télécharger pilotes
+- mettre à jour packages
+- appeler tom
+- réponse forum
+- acheter dentifrice

@@ -1,0 +1,20 @@
+$commands: open chatlog_301020.log
+$from: any
+$file: chatlog_301020.log
+
+[CYAN][02:55] <NinjaPhr34k> s'est déconnecté.[/]
+
+[CYAN][02:59] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][09:45] <DevilCaïelle> vient de se connecter.[/]
+
+[BLUE][09:45][/] [ORANGE]<DevilCaïelle> :[/] Bonjour tout le monde !
+
+[CYAN][13:09] <D3LT4_CRASH> vient de se connecter.[/]
+
+[CYAN][13:37] <NinjaPhr34k> vient de se connecter.[/]
+
+[BLUE][13:41][/] [ORANGE]<DevilCaïelle> :[/] Bonjour tout le monde !
+[BLUE][17:17][/] [ORANGE]<NinjaPhr34k> :[/] Slt
+
+[CYAN][22:40] <DevilCaïelle> s'est déconnecté.[/]

@@ -1,0 +1,3 @@
+$commands: merci, merci!, thanks, thanks!, merci beaucoup, merci beaucoup!, thank you, thank you!
+$from: any
+De rien.

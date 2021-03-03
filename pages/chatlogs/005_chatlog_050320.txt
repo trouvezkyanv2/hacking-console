@@ -1,0 +1,96 @@
+$commands: open chatlog_050320.log
+$from: any
+$file: chatlog_050320.log
+
+[CYAN][00:13] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][00:15] <D3LT4_CRASH> vient de se connecter.[/]
+
+[CYAN][00:15] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][00:57] <NinjaPhr34k> s'est déconnecté.[/]
+
+[CYAN][01:24] <D3LT4_CRASH> vient de se connecter.[/]
+
+[CYAN][01:24] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][01:30] <D3LT4_CRASH> vient de se connecter.[/]
+
+[CYAN][01:30] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][03:50] <D3LT4_CRASH> vient de se connecter.[/]
+
+[BLUE][03:50][/] [ORANGE]<D3LT4_CRASH> :[/] PUTAIIIIIN ◟༼=ಠ益ಠ=༽◞
+
+[CYAN][03:50] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][05:02] <D3LT4_CRASH> vient de se connecter.[/]
+
+[CYAN][05:02] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][11:25] <NinjaPhr34k> vient de se connecter.[/]
+
+[BLUE][11:26][/] [ORANGE]<NinjaPhr34k> :[/] ?
+
+[CYAN][13:02] <D3LT4_CRASH> vient de se connecter.[/]
+
+[BLUE][13:03][/] [ORANGE]<NinjaPhr34k> :[/] T'as pas l'air de passer un super moment xD
+[BLUE][13:11][/] [ORANGE]<NinjaPhr34k> :[/] Allo ?
+[BLUE][13:17][/] [ORANGE]<D3LT4_CRASH> :[/] C'est l'enfer...
+[BLUE][13:17][/] [ORANGE]<D3LT4_CRASH> :[/] J'ai des décos depuis hier soir, mon pc souffle salement
+[BLUE][13:18][/] [ORANGE]<D3LT4_CRASH> :[/] j'ai du trouver une nouvelle bécane et un autre réseau, tout réinstaller...
+[BLUE][13:23][/] [ORANGE]<D3LT4_CRASH> :[/] Hello btw ^^
+[BLUE][13:24][/] [ORANGE]<NinjaPhr34k> :[/] lol slt
+[BLUE][13:24][/] [ORANGE]<NinjaPhr34k> :[/] trop zarbi
+[BLUE][13:24][/] [ORANGE]<NinjaPhr34k> :[/] Imagine c'est les gars de sébasto xD
+[BLUE][13:25][/] [ORANGE]<D3LT4_CRASH> :[/] Bah j'ai rien fait de spé hier, donc ça pourrait très bien être une attaque ouais
+[BLUE][13:25][/] [ORANGE]<D3LT4_CRASH> :[/] J'vais regarder ça staprém
+[BLUE][13:25][/] [ORANGE]<D3LT4_CRASH> :[/] J'te laisse continuer de toute manière y me semble que t'avais juste besoin de vérifs ?
+[BLUE][13:27][/] [ORANGE]<NinjaPhr34k> :[/] Yep
+[BLUE][13:27][/] [ORANGE]<NinjaPhr34k> :[/] Chui sur la fin là mais ça pourra attendre demain pour la vérif t'façon
+[BLUE][13:27][/] [ORANGE]<D3LT4_CRASH> :[/] Parfait
+[BLUE][13:28][/] [ORANGE]<D3LT4_CRASH> :[/] A toute
+[BLUE][16:05][/] [ORANGE]<D3LT4_CRASH> :[/] PUTAIN
+[BLUE][16:05][/] [ORANGE]<D3LT4_CRASH> :[/] J'viens de trouver ça
+[BLUE][16:06][/] [ORANGE]<D3LT4_CRASH> :[/] "connection/port:*****/AkU_t3AM.exe//writing_process"
+[BLUE][16:06][/] [ORANGE]<D3LT4_CRASH> :[/] C'est clairement eux ༼ง=ಠ益ಠ=༽ง
+[BLUE][16:06][/] [ORANGE]<D3LT4_CRASH> :[/] J'vais les démonter
+[BLUE][16:20][/] [ORANGE]<D3LT4_CRASH> :[/] Tu peux regarder dans les logs stp
+[BLUE][16:20][/] [ORANGE]<D3LT4_CRASH> :[/] J't'avoue que c'est un peu cryptique pour moi là
+[BLUE][16:43][/] [ORANGE]<NinjaPhr34k> :[/] waaat wé je mate ça de suite
+[BLUE][16:47][/] [ORANGE]<NinjaPhr34k> :[/] loool quelle bande de bouffons
+[BLUE][16:47][/] [ORANGE]<NinjaPhr34k> :[/] j'te laisse regarde ce que j't'ai envoyé xD
+[BLUE][16:49][/] [ORANGE]<D3LT4_CRASH> :[/] Mdrrr !!!
+[BLUE][16:49][/] [ORANGE]<D3LT4_CRASH> :[/] Je persiste et je signe : j'vais les démonter mdr
+[BLUE][16:49][/] [ORANGE]<D3LT4_CRASH> :[/]
+[BLUE][16:50][/] [ORANGE]<D3LT4_CRASH> :[/] Moi > ( う-´)づ︻╦̵̵̿╤── \(˚☐˚”)/ < ces gros mongoles
+[BLUE][16:50][/] [ORANGE]<D3LT4_CRASH> :[/] 
+[BLUE][16:53][/] [ORANGE]<NinjaPhr34k> :[/] ptn y sont vraiment teubés, c'est ouf xD
+[BLUE][16:57][/] [ORANGE]<NinjaPhr34k> :[/] Bon
+[BLUE][16:57][/] [ORANGE]<NinjaPhr34k> :[/] J'vais voir des potes, sms si t'as besoin ou pour me tenir au courant, j're en fin de soirée surement
+
+[CYAN][16:57] <NinjaPhr34k> s'est déconnecté.[/]
+
+[BLUE][16:59][/] [ORANGE]<D3LT4_CRASH> :[/] T'inquiète j'vais m'occuper de ça de mon côté, j'ai déjà commencé à leur envoyer des trucs, y vont être dég.
+
+[CYAN][20:02] <D3LT4_CRASH> s'est déconnecté.[/]
+
+[CYAN][20:03] <D3LT4_CRASH> vient de se connecter.[/]
+
+[BLUE][20:13][/] [ORANGE]<D3LT4_CRASH> :[/] isoké, tout est revenu à la normale !
+[BLUE][20:13][/] [ORANGE]<D3LT4_CRASH> :[/] ils m'ont fait déliré avec leur attaque en carton
+[BLUE][20:14][/] [ORANGE]<D3LT4_CRASH> :[/] ça me rappelle quand on arnaquait les gens au alt+F4 sur Diablo 2 mdr
+[CYAN]* Type /YES to confirm your modifications[/]
+[CYAN]* Type /YES to confirm your modifications[/]
+
+[CYAN][23:50] <NinjaPhr34k> vient de se connecter.[/]
+
+[BLUE][23:51][/] [ORANGE]<NinjaPhr34k> :[/] loool choque mental de nostalgie
+[BLUE][23:51][/] [ORANGE]<NinjaPhr34k> :[/] y font bien pitié n'empèche
+[BLUE][23:51][/] [ORANGE]<D3LT4_CRASH> :[/] Ouais...
+[BLUE][23:53][/] [ORANGE]<D3LT4_CRASH> :[/] Au fait j'ai trouvé le temps de regarder le projet
+[BLUE][23:53][/] [ORANGE]<D3LT4_CRASH> :[/] C'est pas trop mal, y'a juste la police d'écriture qui est pas dingue
+[BLUE][23:54][/] [ORANGE]<NinjaPhr34k> :[/] j'viens de retomber sur le truc wé, j'avoue que papyrus elle est pas ouf xD
+[BLUE][23:54][/] [ORANGE]<NinjaPhr34k> :[/] j'avais mis ça en attendant j'ai oublié de la changé
+[BLUE][23:55][/] [ORANGE]<D3LT4_CRASH> :[/] Peut-être essayer avec comic sans MS elle est plus rigolote j'trouve
+[BLUE][23:59][/] [ORANGE]<D3LT4_CRASH> :[/] Qu'estce t'en pense ?

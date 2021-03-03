@@ -1,0 +1,31 @@
+$commands: open D3LT4_s0ngz.favlist
+$file: D3LT4_s0ngz.favlist
+$from: any
+
+<list>Musiques Favorites</list>
+    - prodigy_-_voodo_people.mp3
+    - slashdotdash_fatboyslim.mp3
+    - daft_punk_revolution909.mp3
+    - narcotic_influence_empirion.mp3
+    - leftfield_storm3000.mp3
+    - fuck_up_beats_chemicals_bros.mp3
+    - underworld_cowgirl.mp3
+    - window_clicker_aphex.mp3
+    - the_perfect_drug_9_in_nails.mp3
+    - daft_punk_alive.mp3
+    - stop_the_rock_apollo440.mp3
+    - little_wonder.mp3
+    - clubbedtodeath.mp3
+    - jenova_celestial_oc_remix.mp3
+    - chemical_beats_chemicals_bros.mp3
+    - fatboy_slim_give_the_po□man_a_break.mp3
+    - leave_home_chemicals_bros.mp3
+    - army_of_me_bj□rk.mp3
+    - purusha_NVDES.mp3
+    - prodigy_smackmybitchup.mp3
+    - prodigy_firestarter.mp3
+    - prodigy_mindfield.mp3
+    - immigrant_song_karen-0_trent-reznor.mp3
+    - fatboyslim_rockafellerskank.mp3
+    - massiveattack_trinitydub.mp3
+    - 1.0_8-whatsyourask.m4p.mp3

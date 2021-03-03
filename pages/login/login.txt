@@ -1,0 +1,5 @@
+.[WAIT002].[WAIT002].[WAIT002]
+
+[RED][Identifiant inconnu][/]
+
+Veuillez entrer un identifiant correct pour vous connecter.

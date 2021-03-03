@@ -1,0 +1,8 @@
+$from: any
+$commands: decryptor3000.exe, open decryptor3000.exe
+
+Chargement de [CYAN]decryptor3000.exe[/][WAIT002].[WAIT002].[WAIT002].[WAIT015]
+
+[RED][ERROR][/] [YELLOW]Erreur de compilation du progamme.[WAIT005]
+
+Le code source du programme, [/][ORANGE]decryptor3000_source.code[/][YELLOW], contient des erreurs de formatage.[/]
